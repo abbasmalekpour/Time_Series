@@ -9,7 +9,7 @@ If there is some time dependency, then you know it - the answer is: time series 
 
 Allow you to land a job as a quantitative finance analyst, a data analyst or a data scientist.
 
-### We have created a time series course that is not only timeless but also:
+### We have created a time series that is not only timeless but also:
 
 · Easy to understand
 
